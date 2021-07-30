@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dmoj\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-17 01:38+0000\n"
-"PO-Revision-Date: 2021-07-23 00:29\n"
+"POT-Creation-Date: 2021-07-24 06:52+0000\n"
+"PO-Revision-Date: 2021-07-25 00:28\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -17,71 +17,71 @@ msgstr ""
 "X-Crowdin-File: django.po\n"
 "X-Crowdin-File-ID: 10\n"
 
-#: dmoj/settings.py:365
+#: dmoj/settings.py:368
 msgid "Catalan"
 msgstr "Каталанский"
 
-#: dmoj/settings.py:366
+#: dmoj/settings.py:369
 msgid "German"
 msgstr "немецкий"
 
-#: dmoj/settings.py:367
+#: dmoj/settings.py:370
 msgid "English"
 msgstr "английский"
 
-#: dmoj/settings.py:368
+#: dmoj/settings.py:371
 msgid "Spanish"
 msgstr "Испанский"
 
-#: dmoj/settings.py:369
+#: dmoj/settings.py:372
 msgid "French"
 msgstr "французский"
 
-#: dmoj/settings.py:370
+#: dmoj/settings.py:373
 msgid "Croatian"
 msgstr "Хорватский"
 
-#: dmoj/settings.py:371
+#: dmoj/settings.py:374
 msgid "Hungarian"
 msgstr "Венгерский"
 
-#: dmoj/settings.py:372
+#: dmoj/settings.py:375
 msgid "Japanese"
 msgstr "Японский"
 
-#: dmoj/settings.py:373
+#: dmoj/settings.py:376
 msgid "Korean"
 msgstr "Корейский"
 
-#: dmoj/settings.py:374
+#: dmoj/settings.py:377
 msgid "Brazilian Portuguese"
 msgstr "Бразильский португальский"
 
-#: dmoj/settings.py:375
+#: dmoj/settings.py:378
 msgid "Romanian"
 msgstr "Румынский"
 
-#: dmoj/settings.py:376
+#: dmoj/settings.py:379
 msgid "Russian"
 msgstr "русский"
 
-#: dmoj/settings.py:377
+#: dmoj/settings.py:380
 msgid "Serbian (Latin)"
 msgstr "Сербский (латиница)"
 
-#: dmoj/settings.py:378
+#: dmoj/settings.py:381
 msgid "Turkish"
 msgstr "Турецкий"
 
-#: dmoj/settings.py:379
+#: dmoj/settings.py:382
 msgid "Vietnamese"
 msgstr "Вьетнамский"
 
-#: dmoj/settings.py:380
+#: dmoj/settings.py:383
 msgid "Simplified Chinese"
 msgstr "Упрощенный китайский"
 
-#: dmoj/settings.py:381
+#: dmoj/settings.py:384
 msgid "Traditional Chinese"
 msgstr "Традиционный китайский"
 
